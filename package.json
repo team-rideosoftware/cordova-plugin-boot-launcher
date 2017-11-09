@@ -1,0 +1,19 @@
+{
+  "name": "cordova-plugin-boot-launcher-smartturno",
+  "version": "1.0.0",
+  "description": "Launch your Apache Cordova Android app automatically when the device is booted.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/team-rideosoftware/cordova-plugin-boot-launcher-smartturno.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/team-rideosoftware/cordova-plugin-boot-launcher-smartturno/issues"
+  },
+  "homepage": "https://github.com/team-rideosoftware/cordova-plugin-boot-launcher-smartturno#readme"
+}
